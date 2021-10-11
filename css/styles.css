@@ -58,8 +58,7 @@ p {
   src: url(fonts/Lato/Lato-Light.ttf);
 }
 #app {
-  position: relative;
-  height: 100vh;
+  height: 80%;
 }
 
 nav {
